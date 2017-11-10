@@ -4,3 +4,14 @@
 
 无监督学习：对没有概念标记（分类）的训练样本进行学习，以发现训练样本集中的结构性知识。
 这里，所有的标记（分类）是未知的。因此，训练样本的岐义性高。聚类就是典型的无监督学习
+
+2. 常用的监督学习和非监督学习的方法有哪些
+
+3. decision tree / logit regression / svm 的原理是什么，能不能推推公式
+
+4. 如何评价classification / regression 的好坏，除了accuracy之外的指标有哪些
+
+5 precision recall / ROC / confusion matrix都代表了什么
+
+6. 常用的深度学习的layer的结构是什么，各自的用途在哪里
+
